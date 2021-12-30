@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640896173 source:c:\users\ira\documents\github\tetris-game\tetris\game.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
